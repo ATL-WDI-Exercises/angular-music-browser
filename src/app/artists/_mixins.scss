@@ -1,0 +1,37 @@
+// @include border-radius(10px);
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+// @include transition(all 0.5s ease-in-out);
+@mixin transition($the-transition) {
+  -webkit-transition: $the-transition;
+     -moz-transition: $the-transition;
+       -o-transition: $the-transition;
+          transition: $the-transition;
+}
+
+// @include transform(scale3d(0.5, 0.5, 0.5));
+@mixin transform($the-transform) {
+  -webkit-transform: $the-transform;
+     -moz-transform: $the-transform;
+          transform: $the-transform;
+}
+
+@mixin animation($inStrategy, $inDuration, $outStrategy, $outDuration) {
+  width: 100%;
+  // margin: 0;
+  // padding: 0;
+  &.ng-enter, &.ng-leave {
+    position: absolute;
+  }
+  &.ng-enter {
+    animation: $inStrategy $inDuration;
+  }
+  &.ng-leave {
+    animation: $outStrategy $outDuration;
+  }
+}

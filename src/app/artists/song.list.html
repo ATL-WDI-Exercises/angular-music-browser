@@ -1,0 +1,16 @@
+<div>
+  <h1>{{ vm.album.title }}</h1>
+  <table>
+    <tr>
+      <th>Track</th>
+      <th>Title</th>
+      <th>Length</th>
+      <th>Rating</th>
+    </tr>
+    <tr ng-repeat="song in vm.album.songs">
+      <td style="width: 30px;">{{ song.id }}</td>
+      <td style="width: 240px; text-align: left;">{{ song.title }}</td>
+      <td style="width: 40px;">{{ song.length }}</td>
+      <td style="width: 120px;"><span song-rating score="song.rating" max="5"></span></td>
+    </tr>
+</div>

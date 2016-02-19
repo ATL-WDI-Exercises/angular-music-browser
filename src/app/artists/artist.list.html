@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col-md-3">
+    <h2>Artists</h2>
+    <ul>
+      <li ng-repeat="artist in vm.artists"> <a ng-click="vm.goArtist(artist)">{{artist.name}}</a></li>
+    </ul>
+  </div>
+  <div class="col-md-9 artist-view">
+    <div class="artist" ui-view></div>
+  </div>
+</div>

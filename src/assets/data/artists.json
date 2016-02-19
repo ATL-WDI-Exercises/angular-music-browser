@@ -1,0 +1,184 @@
+[
+  { "id": 1,
+    "name": "The Beatles",
+    "albums": [
+      { "id": 1,
+        "title": "Revolver",
+        "songs": [
+          { "id": 1,  "title": "Taxman",                      "length": "2:39", "rating": 0 },
+          { "id": 2,  "title": "Eleanor Rigby",               "length": "2:08", "rating": 0 },
+          { "id": 3,  "title": "I'm Only Sleeping",           "length": "3:02", "rating": 0 },
+          { "id": 4,  "title": "Love You To",                 "length": "3:01", "rating": 0 },
+          { "id": 5,  "title": "Here, There and Everywhere",  "length": "2:26", "rating": 0 },
+          { "id": 6,  "title": "Yellow Submarine",            "length": "2:40", "rating": 0 },
+          { "id": 7,  "title": "She Said She Said",           "length": "2:37", "rating": 0 },
+          { "id": 8,  "title": "Good Day Sunshine",           "length": "2:10", "rating": 0 },
+          { "id": 9,  "title": "And Your Bird Can Sing",      "length": "2:02", "rating": 0 },
+          { "id": 10, "title": "For No One",                  "length": "2:01", "rating": 0 },
+          { "id": 11, "title": "Doctor Robert",               "length": "2:15", "rating": 0 },
+          { "id": 12, "title": "I Want to Tell You",          "length": "2:30", "rating": 0 },
+          { "id": 13, "title": "Got to Get You into My Life", "length": "2:31", "rating": 0 },
+          { "id": 14, "title": "Tomorrow Never Knows",        "length": "2:57", "rating": 0 }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Sgt. Pepper's",
+        "songs": [
+          { "id": 1,  "title": "Sgt. Pepper's",                       "length": "2:02", "rating": 0 },
+          { "id": 2,  "title": "With a Little Help from My Friends",  "length": "2:44", "rating": 0 },
+          { "id": 3,  "title": "Lucy in the Sky with Diamonds",       "length": "3:28", "rating": 0 },
+          { "id": 4,  "title": "Getting Better",                      "length": "2:48", "rating": 0 },
+          { "id": 5,  "title": "Fixing a Hole",                       "length": "2:36", "rating": 0 },
+          { "id": 6,  "title": "She's Leaving Home",                  "length": "3:35", "rating": 0 },
+          { "id": 7,  "title": "Being for the Benefit of Mr. Kite!",  "length": "2:37", "rating": 0 },
+          { "id": 8,  "title": "Within You Without You",              "length": "5:04", "rating": 0 },
+          { "id": 9,  "title": "When I'm Sixty-Four",                 "length": "2:37", "rating": 0 },
+          { "id": 10, "title": "Lovely Rita",                         "length": "2:42", "rating": 0 },
+          { "id": 11, "title": "Good Morning Good Morning",           "length": "2:41", "rating": 0 },
+          { "id": 12, "title": "Sgt. Pepper's (Reprise)",             "length": "1:19", "rating": 0 },
+          { "id": 13, "title": "A Day in the Life",                   "length": "5:39", "rating": 0 }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Abbey Road",
+        "songs": [
+          { "id": 1,  "title": "Come Together",                           "length": "4:20", "rating": 0 },
+          { "id": 2,  "title": "Something",                               "length": "3:03", "rating": 0 },
+          { "id": 3,  "title": "Maxwell's Silver Hammer",                 "length": "3:27", "rating": 0 },
+          { "id": 4,  "title": "Oh! Darling",                             "length": "3:26", "rating": 0 },
+          { "id": 5,  "title": "Octopus's Garden",                        "length": "2:51", "rating": 0 },
+          { "id": 6,  "title": "I Want You (She's So Heavy)",             "length": "7:47", "rating": 0 },
+          { "id": 7,  "title": "Here Comes the Sun",                      "length": "3:05", "rating": 0 },
+          { "id": 8,  "title": "Because",                                 "length": "2:45", "rating": 0 },
+          { "id": 9,  "title": "You Never Give Me Your Money",            "length": "4:02", "rating": 0 },
+          { "id": 10, "title": "Sun King",                                "length": "2:26", "rating": 0 },
+          { "id": 11, "title": "Mean Mr. Mustard",                        "length": "1:06", "rating": 0 },
+          { "id": 12, "title": "Polythene Pam",                           "length": "1:12", "rating": 0 },
+          { "id": 13, "title": "She Came in Through the Bathroom Window", "length": "1:57", "rating": 0 },
+          { "id": 14, "title": "Golden Slumbers",                         "length": "1:31", "rating": 0 },
+          { "id": 15, "title": "Carry That Weight",                       "length": "1:36", "rating": 0 },
+          { "id": 16, "title": "The End",                                 "length": "2:05", "rating": 0 },
+          { "id": 17, "title": "Her Majesty",                             "length": "0:23", "rating": 0 }
+        ]
+      }
+    ]
+  },
+  { "id": 2,
+    "name": "Bob Dylan",
+    "albums": [
+      {
+        "id": 4,
+        "title": "Blonde on Blonde",
+        "songs": [
+          { "id": 1,  "title": "Rainy Day Women #12 & 35",                            "length":  "4:36", "rating": 0 },
+          { "id": 2,  "title": "Pledging My Time",                                    "length":  "3:50", "rating": 0 },
+          { "id": 3,  "title": "Visions of Johanna",                                  "length":  "7:33", "rating": 0 },
+          { "id": 4,  "title": "One of Us Must Know (Sooner or Later)",               "length":  "4:54", "rating": 0 },
+          { "id": 5,  "title": "I Want You",                                          "length":  "3:07", "rating": 0 },
+          { "id": 6,  "title": "Stuck Inside of Mobile with the Memphis Blues Again", "length":  "7:05", "rating": 0 },
+          { "id": 7,  "title": "Leopard-Skin Pill-Box Hat",                           "length":  "3:58", "rating": 0 },
+          { "id": 8,  "title": "Just Like a Woman",                                   "length":  "4:52", "rating": 0 },
+          { "id": 9,  "title": "Most Likely You Go Your Way (And I'll Go Mine)",      "length":  "3:30", "rating": 0 },
+          { "id": 10,  "title": "Temporary Like Achilles",                            "length":  "5:02", "rating": 0 },
+          { "id": 11,  "title": "Absolutely Sweet Marie",                             "length":  "4:57", "rating": 0 },
+          { "id": 12,  "title": "4th Time Around",                                    "length":  "4:35", "rating": 0 },
+          { "id": 13,  "title": "Obviously 5 Believers",                              "length":  "3:35", "rating": 0 },
+          { "id": 15,  "title": "Sad Eyed Lady of the Lowlands",                      "length": "11:23", "rating": 0 }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Blood on the Tracks",
+        "songs": [
+          { "id": 1,  "title": "Tangled Up in Blue",                        "length": "5:42", "rating": 0 },
+          { "id": 2,  "title": "Simple Twist of Fate",                      "length": "4:19", "rating": 0 },
+          { "id": 3,  "title": "You're a Big Girl Now",                     "length": "4:36", "rating": 0 },
+          { "id": 4,  "title": "Idiot Wind",                                "length": "7:48", "rating": 0 },
+          { "id": 5,  "title": "You're Gonna Make Me Lonesome When You Go", "length": "2:55", "rating": 0 },
+          { "id": 6,  "title": "Meet Me in the Morning",                    "length": "4:22", "rating": 0 },
+          { "id": 7,  "title": "Lily, Rosemary and the Jack of Hearts",     "length": "8:51", "rating": 0 },
+          { "id": 8,  "title": "If You See Her, Say Hello",                 "length": "4:49", "rating": 0 },
+          { "id": 9,  "title": "Shelter from the Storm",                    "length": "5:02", "rating": 0 },
+          { "id": 10, "title": "Buckets of Rain",                           "length": "3:22", "rating": 0 }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Highway 61 Revisited",
+        "songs": [
+          { "id": 1,  "title": "Like a Rolling Stone",                             "length": "6:13",  "rating": 0 },
+          { "id": 2,  "title": "Tombstone Blues",                                  "length": "6:00",  "rating": 0 },
+          { "id": 3,  "title": "It Takes a Lot to Laugh, It Takes a Train to Cry", "length": "4:09",  "rating": 0 },
+          { "id": 4,  "title": "From a Buick 6",                                   "length": "3:19",  "rating": 0 },
+          { "id": 5,  "title": "Ballad of a Thin Man",                             "length": "5:58",  "rating": 0 },
+          { "id": 6,  "title": "Queen Jane Approximately",                         "length": "5:31",  "rating": 0 },
+          { "id": 7,  "title": "Highway 61 Revisited",                             "length": "3:30",  "rating": 0 },
+          { "id": 8,  "title": "Just Like Tom Thumb's Blues",                      "length": "5:32",  "rating": 0 },
+          { "id": 9,  "title": "Desolation Row",                                   "length": "11:21", "rating": 0 }
+        ]
+      }
+    ]
+  },
+  { "id": 3,
+    "name": "The Rolling Stones",
+    "albums": [
+      {
+        "id": 7,
+        "title": "Let It Bleed",
+        "songs": [
+          { "id": 1,  "title": "Gimme Shelter",                      "length": "4:31", "rating": 0 },
+          { "id": 2,  "title": "Love in Vain",                       "length": "4:19", "rating": 0 },
+          { "id": 3,  "title": "Country Honk",                       "length": "3:09", "rating": 0 },
+          { "id": 4,  "title": "Live with Me",                       "length": "3:33", "rating": 0 },
+          { "id": 5,  "title": "Let It Bleed",                       "length": "5:26", "rating": 0 },
+          { "id": 6,  "title": "Midnight Rambler",                   "length": "6:52", "rating": 0 },
+          { "id": 7,  "title": "You Got the Silver",                 "length": "2:51", "rating": 0 },
+          { "id": 8,  "title": "Monkey Man",                         "length": "4:12", "rating": 0 },
+          { "id": 9,  "title": "You Can't Always Get What You Want", "length": "7:28", "rating": 0 }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Exile on Main St.",
+        "songs": [
+          { "id": 1,  "title": "Rocks Off",                   "length": "4:31", "rating": 0 },
+          { "id": 2,  "title": "Rip This Joint",              "length": "2:22", "rating": 0 },
+          { "id": 3,  "title": "Shake Your Hips",             "length": "2:59", "rating": 0 },
+          { "id": 4,  "title": "Casino Boogie",               "length": "3:33", "rating": 0 },
+          { "id": 5,  "title": "Tumbling Dice",               "length": "3:45", "rating": 0 },
+          { "id": 6,  "title": "Sweet Virginia",              "length": "4:27", "rating": 0 },
+          { "id": 7,  "title": "Torn and Frayed",             "length": "4:17", "rating": 0 },
+          { "id": 8,  "title": "Sweet Black Angel",           "length": "2:54", "rating": 0 },
+          { "id": 9,  "title": "Loving Cup",                  "length": "4:25", "rating": 0 },
+          { "id": 10, "title": "Happy",                       "length": "3:04", "rating": 0 },
+          { "id": 11, "title": "Turd on the Run",             "length": "2:36", "rating": 0 },
+          { "id": 12, "title": "Ventilator Blues",            "length": "3:24", "rating": 0 },
+          { "id": 13, "title": "I Just Want to See His Face", "length": "2:52", "rating": 0 },
+          { "id": 14, "title": "Let It Loose",                "length": "5:16", "rating": 0 },
+          { "id": 15, "title": "All Down the Line",           "length": "3:49", "rating": 0 },
+          { "id": 16, "title": "Stop Breaking Down",          "length": "4:34", "rating": 0 },
+          { "id": 17, "title": "Shine a Light",               "length": "4:14", "rating": 0 },
+          { "id": 18, "title": "Soul Survivor",               "length": "3:49", "rating": 0 }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Sticky Fingers",
+        "songs": [
+          { "id": 1,  "title": "Brown Sugar",                "length": "3:48", "rating": 0 },
+          { "id": 2,  "title": "Sway",                       "length": "3:50", "rating": 0 },
+          { "id": 3,  "title": "Wild Horses",                "length": "5:42", "rating": 0 },
+          { "id": 4,  "title": "Can't You Hear Me Knocking", "length": "7:14", "rating": 0 },
+          { "id": 5,  "title": "You Gotta Move",             "length": "2:32", "rating": 0 },
+          { "id": 6,  "title": "Bitch",                      "length": "3:38", "rating": 0 },
+          { "id": 7,  "title": "I Got the Blues",            "length": "3:54", "rating": 0 },
+          { "id": 8,  "title": "Sister Morphine",            "length": "5:31", "rating": 0 },
+          { "id": 9,  "title": "Dead Flowers",               "length": "4:03", "rating": 0 },
+          { "id": 10, "title": "Moonlight Mile",             "length": "5:56", "rating": 0 }
+        ]
+      }
+    ]
+  }
+]

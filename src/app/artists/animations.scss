@@ -1,0 +1,23 @@
+@import 'mixins';
+
+$artist-animation-duration: 0.5s;
+.artist {
+  @include animation(fadeInDown,  $artist-animation-duration,
+                     fadeOutDown, $artist-animation-duration);
+}
+
+$album-animation-duration: 0.5s;
+.album {
+  @include animation(fadeInDown,  $album-animation-duration,
+                     fadeOutDown, $album-animation-duration);
+}
+
+.ui-view-container {
+  position: relative;
+}
+
+$animation-duration: 1.0s;
+.main-view {
+  @include animation(bounceInRight,  $animation-duration,
+                     bounceOutDown, $animation-duration);
+}

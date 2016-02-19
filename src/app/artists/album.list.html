@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col-md-4">
+    <h1>{{ vm.artist.name }}</h1>
+    <ul>
+      <li ng-repeat="album in vm.artist.albums"> <a ng-click="vm.goAlbum(album)">{{ album.title }}</a></li>
+    </ul>
+  </div>
+  <div class="col-md-8">
+    <div class="album" ui-view></div>
+  </div>
+</div>
